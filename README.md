@@ -1,12 +1,9 @@
 # GoFish, The Package Manager
 
-## THIS PROJECT IS BEING ARCHIVED
+## PLEASE SEE [fishworks/gofish](https://github.com/fishworks/gofish) FOR OFFICIAL CODE ARCHIVE.
+## This fork exists for custom patches.
 
-Due to the amount of time and money required to maintain this side project, I am archiving it. Please feel free to [send me an email](mailto:matt.fisher@fishworks.io) if you have any questions or comments.
-
-![Build Status](https://github.com/fishworks/gofish/workflows/build/badge.svg)
-
-Features, usage and installation instructions can be found on the [homepage](https://gofi.sh).
+Features, usage and installation instructions can be found on the [homepage](https://web.archive.org/web/20220228024138/https://gofi.sh/).
 
 ## What does GoFish do?
 
@@ -25,11 +22,11 @@ You can think of it as the cross-platform Homebrew.
 
 ## Want to add your project to the list of installable thingies?
 
-Make a PR at [fishworks/fish-food](https://github.com/fishworks/fish-food)! Just make sure to follow the [Contributing Guide](https://gofi.sh#contributing) first.
+Make a PR at [fishworks/fish-food](https://github.com/fishworks/fish-food)! Just make sure to follow the [Contributing Guide](https://web.archive.org/web/20220228024138/https://gofi.sh/#contributing) first.
 
 ## Troubleshooting
 
-For troubleshooting, see the [Troubleshooting Guide](https://gofi.sh#troubleshooting).
+For troubleshooting, see the [Troubleshooting Guide](https://web.archive.org/web/20220228024138/https://gofi.sh/#troubleshooting).
 
 ## Security
 
